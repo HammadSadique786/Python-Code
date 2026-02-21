@@ -1,53 +1,49 @@
-**About Me**
+# 👋 Hi, I'm Hammad Sadique
 
-BS Computer Science Student
+🎓 BS Computer Science Student  
+💻 Passionate about Programming  
+🚀 Future Software Engineer  
 
-Learning C++ and Python
+---
 
-Practicing Data Structures
+## 🔹 About Me
+- Currently learning C++ and Python
+- Practicing Data Structures and Algorithms
+- Focused on improving problem solving skills
+- Building beginner to intermediate projects
 
-Focused on problem solving
+---
 
-**🔹 Skills**
+## 🔹 Skills
 
-Programming Languages
+### 💻 Programming Languages
+- C++
+- Python
+- Basic Assembly Language
 
-C++
+### 📚 Core Concepts
+- Variables & Data Types
+- Loops & Conditionals
+- Functions
+- Arrays & Strings
+- Object-Oriented Programming (Basic)
+- Stack, Queue, Linked List (Beginner Level)
 
-Python
+### 🛠 Tools
+- VS Code
+- Git & GitHub
+- Dev C++
 
-Basic Assembly Language
+---
 
-Core Concepts
+## 🔹 Projects
+- Console Calculator (C++)
+- Student Management System (C++)
+- Number Guessing Game (Python)
+- To-Do List (Python)
+- Basic Stack Implementation (C++)
 
-Variables & Data Types
+---
 
-Loops & Conditionals
-
-Functions
-
-Arrays & Strings
-
-OOP (Basic)
-
-Stack, Queue, Linked List
-
-Tools
-
-VS Code
-
-Git & GitHub
-
-Dev C++
-
-**🔹 Projects**
-
-Console Calculator (C++)
-
-Student Management System (C++)
-
-Number Guessing Game (Python)
-
-To-Do List (Python)
-
-Basic Stack Implementation (C++)
+## 🎯 Current Goal
+Improving Data Structures and Algorithm skills and working toward becoming a professional software developer.
