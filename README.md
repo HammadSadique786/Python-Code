@@ -1,4 +1,4 @@
-About Me
+**About Me**
 
 BS Computer Science Student
 
@@ -8,7 +8,7 @@ Practicing Data Structures
 
 Focused on problem solving
 
-🔹 Skills
+**🔹 Skills**
 
 Programming Languages
 
@@ -40,7 +40,7 @@ Git & GitHub
 
 Dev C++
 
-🔹 Projects
+**🔹 Projects**
 
 Console Calculator (C++)
 
